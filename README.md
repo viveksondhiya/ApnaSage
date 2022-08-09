@@ -1,2 +1,2 @@
 # ApnaSage
-Student Academic Management app
+Student Academic Management application
